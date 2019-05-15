@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A6926835228B3EC600956329 /* WordSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6926834228B3EC600956329 /* WordSearch.swift */; };
 		A6926837228B4AC800956329 /* GridCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6926836228B4AC800956329 /* GridCollectionView.swift */; };
 		A6C28FBA22890D48004FBCE5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C28FB922890D48004FBCE5 /* AppDelegate.swift */; };
 		A6C28FBC22890D48004FBCE5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6C28FBB22890D48004FBCE5 /* ViewController.swift */; };
@@ -20,7 +19,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		A6926834228B3EC600956329 /* WordSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = WordSearch.swift; path = ../WordSearch.swift; sourceTree = "<group>"; };
 		A6926836228B4AC800956329 /* GridCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridCollectionView.swift; sourceTree = "<group>"; };
 		A6C28FB622890D48004FBCE5 /* appFour.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = appFour.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6C28FB922890D48004FBCE5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -71,7 +69,6 @@
 				A6C28FD122891E61004FBCE5 /* CardCollectionViewCell.swift */,
 				A6926836228B4AC800956329 /* GridCollectionView.swift */,
 				A6C28FC522890D49004FBCE5 /* Info.plist */,
-				A6926834228B3EC600956329 /* WordSearch.swift */,
 				A6C28FBD22890D48004FBCE5 /* Main.storyboard */,
 				A6C28FC022890D49004FBCE5 /* Assets.xcassets */,
 				A6C28FC222890D49004FBCE5 /* LaunchScreen.storyboard */,
@@ -156,7 +153,6 @@
 				A6C28FD222891E61004FBCE5 /* CardCollectionViewCell.swift in Sources */,
 				A6C28FCE22890EE5004FBCE5 /* Card.swift in Sources */,
 				A6926837228B4AC800956329 /* GridCollectionView.swift in Sources */,
-				A6926835228B3EC600956329 /* WordSearch.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
