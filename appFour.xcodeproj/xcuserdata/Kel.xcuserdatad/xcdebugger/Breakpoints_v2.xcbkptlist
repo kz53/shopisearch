@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "appFour/ViewController.swift"
+            timestampString = "579614435.8460521"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "appFour.ViewController.difficultyLevel.getter : Swift.Int"
+                  moduleName = "appFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Kel/Desktop/appFour/appFour/ViewController.swift"
+                  timestampString = "579598645.75286"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "102">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "appFour.ViewController.difficultyLevel.setter : Swift.Int"
+                  moduleName = "appFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Kel/Desktop/appFour/appFour/ViewController.swift"
+                  timestampString = "579598645.755821"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "appFour.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; appFour.ViewController"
+                  moduleName = "appFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Kel/Desktop/appFour/appFour/ViewController.swift"
+                  timestampString = "579598645.759727"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "389">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "appFour.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;appFour.ViewController&gt;"
+                  moduleName = "appFour"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Kel/Desktop/appFour/appFour/ViewController.swift"
+                  timestampString = "579598645.764789"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "357">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
