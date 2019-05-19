@@ -209,7 +209,7 @@ class CardModel {
             wordIndexCounter += 1
         }
         if upLeftBool{
-            validDirections.append(upLeft)
+            //validDirections.append(upLeft)
         }
         
         //check if upRight works
@@ -229,7 +229,7 @@ class CardModel {
             wordIndexCounter += 1
         }
         if upRightBool{
-            validDirections.append(upRight)
+            //validDirections.append(upRight)
         }
         
         //check if doLeft works
@@ -249,7 +249,7 @@ class CardModel {
             wordIndexCounter += 1
         }
         if doLeftBool{
-            validDirections.append(doLeft)
+            //validDirections.append(doLeft)
         }
         
         //check if doRight works
@@ -269,7 +269,7 @@ class CardModel {
             wordIndexCounter += 1
         }
         if upLeftBool{
-            validDirections.append(upLeft)
+            //validDirections.append(upLeft)
         }
         
         
